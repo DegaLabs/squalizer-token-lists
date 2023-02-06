@@ -1,6 +1,6 @@
 {
   "name": "Squalizer Default",
-  "timestamp": "2023-02-06T14:45:36.473Z",
+  "timestamp": "2023-02-06T18:07:44.609+00:00",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,20 +13,10 @@
     {
       "chainId": 8081,
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-      "name": "",
+      "name": "1inch",
       "symbol": "1INCH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
-      "extensions": {
-        "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
-          },
-          "42161": {
-            "tokenAddress": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF"
-          }
-        }
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
     },
     {
       "name": "Tether USD",
