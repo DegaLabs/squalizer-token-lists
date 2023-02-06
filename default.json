@@ -1,0 +1,56 @@
+{
+  "name": "Squalizer Default",
+  "timestamp": "2023-02-06T14:45:36.473Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["squalizer", "default"],
+  "tokens": [
+    {
+      "chainId": 8081,
+      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "name": "",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
+          },
+          "42161": {
+            "tokenAddress": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF"
+          }
+        }
+      }
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 8081,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 8081,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 8081,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
+    }
+  ]
+}
