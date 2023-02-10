@@ -36,7 +36,7 @@
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+      "address": "0xEadcbd9115Eb06698ba6e1Cd7BB4C6381f9E6729",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 8081,
